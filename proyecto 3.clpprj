@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\proyecto 3.clpprj">
+	<settings><PM_URL><![CDATA[C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3]]></PM_URL><PM_HOME_URL><![CDATA[C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\index.php"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.8">
+		<phptree>
+			<treenode node="views/alta.view.php;PHP:PHP Include;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f11;3;30;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="views/baja.view.php;PHP:PHP Include;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f10;29;29;29;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="views/contenido.view.php;PHP:PHP Include;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido.php;f11;6;35;6;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f10;33;34;33;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="views/login.view.php;PHP:PHP Include;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f9;36;29;36;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="views/modificar.view.php;PHP:PHP Include;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f10;32;34;32;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="views/registrate.view.php;PHP:PHP Include;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f10;49;35;49;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_POST;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f35;7;41;7;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f35;5;41;5;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f34;9;40;9;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f8;4;14;4;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f35;5;41;5;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f35;7;41;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_SERVER;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\registrate.view.php;f39;15;47;15;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\modificar.view.php;f40;34;48;34;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\login.view.php;f39;15;47;15;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\contenido.view.php;f40;34;48;34;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\baja.view.php;f40;34;48;34;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\alta.view.php;f69;31;77;31;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f5;6;13;6;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f5;3;13;3;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f3;8;11;8;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f5;3;13;3;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f5;3;13;3;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f5;6;13;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_SESSION;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f10;2;19;2;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f9;2;18;2;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido.php;f11;5;20;5;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\cerrar.php;f0;3;9;3;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\index.php;f10;2;19;2;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f10;2;19;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="conexion;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f4;17;13;17;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f4;15;13;15;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f2;14;11;14;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f4;15;13;15;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f4;14;13;14;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f4;16;13;16;;;;vposPDO;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="e;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f24;18;26;18;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f24;16;26;16;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f23;15;25;15;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f24;16;26;16;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f24;15;26;15;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f24;17;26;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="errores;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\registrate.view.php;f19;29;27;29;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\modificar.view.php;f19;44;27;44;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\login.view.php;f19;26;27;26;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\contenido.view.php;f19;47;27;47;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\baja.view.php;f19;40;27;40;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\alta.view.php;f19;41;27;41;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f2;11;10;11;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f2;7;10;7;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f0;6;8;6;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f2;7;10;7;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f2;6;10;6;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f2;10;10;10;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="id;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f2;4;5;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nombrep;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f2;5;10;5;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f2;5;10;5;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f2;5;10;5;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f2;7;10;7;;;;vposmixed;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="password;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f2;8;11;8;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f1;10;10;10;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="password2;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f2;9;12;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="precio;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f2;6;9;6;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f2;6;9;6;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f2;8;9;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="resultado;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f3;24;13;24;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f1;26;11;26;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="statement;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f3;22;13;22;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php;f3;22;13;22;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f1;19;11;19;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php;f3;22;13;22;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php;f3;21;13;21;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php;f3;23;13;23;;;;vpospublic;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="usuario;PHP:Var Name;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php;f2;7;10;7;;C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php;f1;9;9;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\registrate.view.php" crc="1461462302"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\modificar.view.php" crc="1461552943"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\login.view.php" crc="1461465775"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\contenido.view.php" crc="1461552954"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\baja.view.php" crc="1461552964"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\views\alta.view.php" crc="1461503448"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\css\estilos.css" crc="1461553453"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\registrate.php" crc="1461476204"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\modificar.php" crc="1461593781"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\login.php" crc="1461593781"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\index.php" crc="1461462093"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\Desktop.ini" crc="1461595033"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido.php" crc="1461594563"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\contenido old.php" crc="1461593781"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\cerrar.php" crc="1461466674"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\baja.php" crc="1461595566"/>
+		<file name="C:\xampp\htdocs\Seguridad y calidad en aplicaciones web\miketpscaw3\alta.php" crc="1461595099"/>
+	</filescache>
+</project>
